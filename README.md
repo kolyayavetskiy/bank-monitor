@@ -1,1 +1,3 @@
-# bank-monitor
+- composer install
+- docker compose build
+- docker compose up
